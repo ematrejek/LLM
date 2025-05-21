@@ -37,7 +37,7 @@ python news_podcast.py
 ## Wyjście
 
 Program generuje następujące pliki:
-- `podcast.mp3` - 10-minutowy podcast w języku angielskim
+- `podcast.mp3` - 5-10-minutowy podcast w języku angielskim
 - `newsletter_en.html` - newsletter w języku angielskim
 - `newsletter_pl.html` - newsletter w języku polskim
 
@@ -54,6 +54,5 @@ Program generuje następujące pliki:
 - POLITYKA
 - EKONOMIA
 - TECHNOLOGIA
-- BIZNES
 - GIEŁDA
 - ŚRODOWISKO 
